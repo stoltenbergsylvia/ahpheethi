@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aquohceey.mobile.ant.design/sitemap.xml
